@@ -1,0 +1,26 @@
+ {
+  "name": "asad-atm-cli",
+  "version": "1.0.0",
+  "description": "my atm cli",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asad755/raayjo_n.git"
+  },
+  "author": "asadiftekhar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asad755/raayjo_n/issues"
+  },
+  "homepage": "https://github.com/asad755/raayjo_n#readme",
+  "dependencies": {
+    "inquirer": "^9.2.12"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
